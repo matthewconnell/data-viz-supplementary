@@ -1,1 +1,1 @@
-# data-viz-supplementary
+# Data Visualization - supplementary material
