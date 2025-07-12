@@ -1,0 +1,6 @@
+speaker,iso_lang,text,sex,duration,syllables,age
+CAT_F1(Su),CAT,O1,F,12.43,88,42.0
+CAT_F1(Su),CAT,O2,F,16.92,118,42.0
+CAT_F1(Su),CAT,O3,F,19.96,139,42.0
+CAT_F1(Su),CAT,O4,F,22.42,142,42.0
+CAT_F1(Su),CAT,O6,F,13.49,99,42.0
